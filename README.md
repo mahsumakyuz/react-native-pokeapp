@@ -1,1 +1,1 @@
-# POKEMON APP - react-native
+# POKEMON APP - react native
